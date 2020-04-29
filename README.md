@@ -1,2 +1,1 @@
-# essay2
-essay2
+# Hyena Plant
